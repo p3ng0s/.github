@@ -4,6 +4,8 @@ P3NG0S
 
 ![icon](https://github.com/p3ng0s/.github/blob/main/favicon.png?raw=true)
 
+For more information view [this](https://leosmith.wtf/rice/) wiki page.
+
 The main objective was for me to have an comfortable environement I can deploy fast and mostly reliably.
 I also was looking for a way to package all of my things in an effective way other than just a tar ball.
 p3ng0s is exactly what this is trying to resolve for me. I would not recommend anyone using this as it is
