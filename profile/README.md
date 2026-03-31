@@ -2,7 +2,7 @@ P3NG0S
 ======
 *p3ng0s.iso is a physical access red team platform built on Arch Linux. Boot from USB, deploy as a dropbox, crack hashes overnight, or run offline attacks against target machines*
 
-![icon](https://github.com/p3ng0s/.github/blob/main/favicon.png?raw=true)
+![icon](https://github.com/p3ng0s/.github/blob/main/screenshots/logo.png?raw=true)
 
 For more information view [the wiki](https://leosmith.wtf/rice/).
 
