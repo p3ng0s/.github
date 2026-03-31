@@ -1,9 +1,9 @@
+<img src="/screenshots/logo.png" width="100px" />
+
 P3NG0S
 ======
 *p3ng0s.iso is a physical access red team platform built on Arch Linux. Boot from USB, deploy as a dropbox, crack hashes overnight, or run offline attacks against target machines*
 For more information view [the wiki](https://leosmith.wtf/rice/).
-
-![icon](https://github.com/p3ng0s/.github/blob/main/screenshots/logo.png?raw=true)
 
 ## Systemd Architecture
 Here is a diagram showcasing the boot flow of the .iso:
