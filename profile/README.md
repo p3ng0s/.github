@@ -11,9 +11,13 @@ Here is a diagram showcasing the boot flow of the .iso:
 
 ## Showcase
 ![dropbox_mode](https://github.com/p3ng0s/.github/blob/main/screenshots/dropbox_corpo_screen.png?raw=true)
+*dropbox mode*
 ![hashcat_mode](https://github.com/p3ng0s/.github/blob/main/screenshots/hashcat_in_kitchen.png?raw=true)
+*hashcat mode*
 ![os_killer_banner](https://github.com/p3ng0s/.github/blob/main/screenshots/os_killer_banner.png?raw=true)
 ![os_killer_presentation](https://github.com/p3ng0s/.github/blob/main/screenshots/os_killer_presentation.png?raw=true)
+*os_killer.sh*
 ![rice](https://github.com/p3ng0s/.github/blob/main/screenshots/rice_scrot.png?raw=true)
+*unix porn*
 ![git-apocalypse](https://github.com/p3ng0s/.github/blob/main/screenshots/git-apocalypse_banner.png?raw=true)
-
+*tool installer*
